@@ -2,8 +2,9 @@
 
 Computes the radiation efficiency of a simply supported baffled plate given a point harmonic excitation. The sound power, amplitude velocity and the radiation modes are plotted to understand this parameter.
 
-Uses the elementary radiators approach. The radiation modes come from the eigen analysis of the acoustical radiation resistance matrix [R] and the Direct Calculation Method (DCM)
-## Intallation with anaconda
+Uses the elementary radiators approach. The radiation modes come from the eigen analysis of the acoustical radiation resistance matrix [R] and the Direct Calculation Method (DCM).
+
+## Installation with anaconda
 In your virtual env <my_env>, then run
 
 * $ python setup.py install
